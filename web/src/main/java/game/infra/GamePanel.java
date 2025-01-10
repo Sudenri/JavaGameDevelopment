@@ -1,6 +1,6 @@
-package org.infra;
+package game.infra;
 
-import org.entity.Player;
+import game.entity.Player;
 
 import javax.swing.*;
 import java.awt.*;

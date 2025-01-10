@@ -1,6 +1,6 @@
-package org;
+package game;
 
-import org.infra.GamePanel;
+import game.infra.GamePanel;
 
 import javax.swing.*;
 

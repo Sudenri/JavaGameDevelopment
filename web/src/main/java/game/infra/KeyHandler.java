@@ -1,4 +1,4 @@
-package org.infra;
+package game.infra;
 
 import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;

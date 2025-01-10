@@ -1,4 +1,4 @@
-package org.entity;
+package game.entity;
 
 import java.awt.image.BufferedImage;
 import java.math.BigDecimal;
