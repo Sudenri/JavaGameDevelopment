@@ -4,8 +4,6 @@ import game.infra.GamePanel;
 
 import javax.swing.*;
 
-// Youtube Tutorial https://www.youtube.com/playlist?list=PL_QPQmz5C6WUF-pOQDsbsKbaBZqXj4qSq
-// 08.01.2025 - Finished Part 3
 public class Main {
     public static void main(String[] args) {
         JFrame window = new JFrame();
